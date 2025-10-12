@@ -58,6 +58,7 @@
         .logo-text {
             display: flex;
             flex-direction: column;
+            color: wheat;
         }
         
         .logo-text h1 {
